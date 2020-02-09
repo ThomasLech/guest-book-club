@@ -7,8 +7,8 @@ image: assets/images/guest-book.jpeg
 tags: [featured]
 ---
 Are you getting ready for you Big Day? If so, then perhaps you already know how time-consuming and expensive planning a wedding can be! 
-Especially, when you're searching for a wedding guest book having thousands of different options to choose from.
-That's why we decided to save you time and money and created this compilation of the top 3 wedding guest books that you can purchase online.
+Especially, searching for the right wedding guest book while having thousands of different options to choose from.
+That's why we decided to save you time and money and create this compilation of the top 3 wedding guest books that you can purchase online.
 
 
 ## #1 White Dove Publications Wedding Guest Book

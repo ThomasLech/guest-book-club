@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e39c621-4d1c-4b17-9889-4532784aeae8" name="Default Changelist" comment="" />
+    <list default="true" id="4e39c621-4d1c-4b17-9889-4532784aeae8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/authors-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/privacy-policy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/top-3-wedding-guest-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/top-3-wedding-guest-books/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581276550910</updated>
-      <workItem from="1581276552438" duration="203000" />
+      <workItem from="1581276552438" duration="1142000" />
     </task>
     <servers />
   </component>

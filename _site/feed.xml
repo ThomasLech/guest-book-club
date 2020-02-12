@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-12T14:02:49+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Guest Book Club</title><subtitle>No description.</subtitle><entry><title type="html">TOP 3 Wedding Guest Books You Must See</title><link href="http://localhost:4000/top-3-wedding-guest-books/" rel="alternate" type="text/html" title="TOP 3 Wedding Guest Books You Must See" /><published>2020-02-04T00:00:00+01:00</published><updated>2020-02-04T00:00:00+01:00</updated><id>http://localhost:4000/top-3-wedding-guest-books</id><content type="html" xml:base="http://localhost:4000/top-3-wedding-guest-books/">&lt;p&gt;Are you getting ready for you Big Day? If so, then perhaps you already know how time-consuming and expensive planning a wedding can be! 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-12T14:12:14+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Guest Book Club</title><subtitle>No description.</subtitle><entry><title type="html">TOP 3 Wedding Guest Books You Must See</title><link href="http://localhost:4000/top-3-wedding-guest-books/" rel="alternate" type="text/html" title="TOP 3 Wedding Guest Books You Must See" /><published>2020-02-04T00:00:00+01:00</published><updated>2020-02-04T00:00:00+01:00</updated><id>http://localhost:4000/top-3-wedding-guest-books</id><content type="html" xml:base="http://localhost:4000/top-3-wedding-guest-books/">&lt;p&gt;Are you getting ready for you Big Day? If so, then perhaps you already know how time-consuming and expensive planning a wedding can be! 
 Especially, searching for the right wedding guest book while having thousands of different options to choose from.
 That’s why we decided to save you time and money and created this compilation of the top 3 wedding guest books (with photos) that you can purchase online.&lt;/p&gt;
 
@@ -39,13 +39,22 @@ This wedding guest book looks simple yet beautiful, and it’s a great alternati
 
 &lt;div class=&quot;gallery&quot;&gt;
     &lt;div class=&quot;gallery-img img-col-3&quot;&gt;
-        &lt;img class=&quot;rounded-corners&quot; src=&quot;/assets/images/wooden-wedding-guest-book-1.png&quot; /&gt;
+        &lt;picture&gt;
+            &lt;source class=&quot;rounded-corners&quot; srcset=&quot;/assets/images/wooden-wedding-guest-book-1.webp&quot; type=&quot;image/webp&quot; /&gt;
+            &lt;img class=&quot;rounded-corners&quot; src=&quot;/assets/images/wooden-wedding-guest-book-1.png&quot; /&gt;
+        &lt;/picture&gt;
     &lt;/div&gt;
     &lt;div class=&quot;gallery-img img-col-3&quot;&gt;
-        &lt;img class=&quot;rounded-corners&quot; src=&quot;/assets/images/wooden-wedding-guest-book-2.png&quot; /&gt;
+        &lt;picture&gt;
+            &lt;source class=&quot;rounded-corners&quot; srcset=&quot;/assets/images/wooden-wedding-guest-book-2.webp&quot; type=&quot;image/webp&quot; /&gt;
+            &lt;img class=&quot;rounded-corners&quot; src=&quot;/assets/images/wooden-wedding-guest-book-2.png&quot; /&gt;
+        &lt;/picture&gt;
     &lt;/div&gt;
     &lt;div class=&quot;gallery-img img-col-3&quot;&gt;
-        &lt;img class=&quot;rounded-corners&quot; src=&quot;/assets/images/wooden-wedding-guest-book-3.png&quot; /&gt;
+        &lt;picture&gt;
+            &lt;source class=&quot;rounded-corners&quot; srcset=&quot;/assets/images/wooden-wedding-guest-book-3.webp&quot; type=&quot;image/webp&quot; /&gt;
+            &lt;img class=&quot;rounded-corners&quot; src=&quot;/assets/images/wooden-wedding-guest-book-3.png&quot; /&gt;
+        &lt;/picture&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Last but not least, you might be interested in this non-traditional, personalized wooden wedding guest book. The book’s cover looks creative and features a big heart and your names right below it. There’s different color variations available for the heart (red, pink, golden, silver and white).&lt;/p&gt;

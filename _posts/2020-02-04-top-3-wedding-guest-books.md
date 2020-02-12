@@ -49,13 +49,22 @@ I really like the idea of featuring names on a guest book's cover as it adds mor
 
 <div class="gallery">
     <div class="gallery-img img-col-3">
-        <img class="rounded-corners" src="{{site.baseurl}}/assets/images/wooden-wedding-guest-book-1.png" />
+        <picture>
+            <source class="rounded-corners" srcset="{{site.baseurl}}/assets/images/wooden-wedding-guest-book-1.webp" type="image/webp">
+            <img class="rounded-corners" src="{{site.baseurl}}/assets/images/wooden-wedding-guest-book-1.png" />
+        </picture>
     </div>
     <div class="gallery-img img-col-3">
-        <img class="rounded-corners" src="{{site.baseurl}}/assets/images/wooden-wedding-guest-book-2.png" />
+        <picture>
+            <source class="rounded-corners" srcset="{{site.baseurl}}/assets/images/wooden-wedding-guest-book-2.webp" type="image/webp">
+            <img class="rounded-corners" src="{{site.baseurl}}/assets/images/wooden-wedding-guest-book-2.png" />
+        </picture>
     </div>
     <div class="gallery-img img-col-3">
-        <img class="rounded-corners" src="{{site.baseurl}}/assets/images/wooden-wedding-guest-book-3.png" />
+        <picture>
+            <source class="rounded-corners" srcset="{{site.baseurl}}/assets/images/wooden-wedding-guest-book-3.webp" type="image/webp">
+            <img class="rounded-corners" src="{{site.baseurl}}/assets/images/wooden-wedding-guest-book-3.png" />
+        </picture>
     </div>
 </div>
 Last but not least, you might be interested in this non-traditional, personalized wooden wedding guest book. The book's cover looks creative and features a big heart and your names right below it. There's different color variations available for the heart (red, pink, golden, silver and white).

@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'guestbookclub.com'
-email: 'thomas@rootxnet.com'
+email: 'stargoodsamazon@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -23,8 +23,8 @@ authors:
       name:           Thomas
       site:           https://www.wowthemes.net
       avatar:         assets/images/avatar.png
-      bio:            "Hi, I am Thomas, the author of Guest Book Club!"
-      email:          wowthemesnet@gmail.com
+      bio:            "Hi, I am Thomas, the author of Guest Book Club! I share my passion to guest book and all I know about them."
+      email:          stargoodsamazon@gmail.com
       twitter:        https://twitter.com/ThomasLech11
 
 # Defaults

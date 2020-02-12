@@ -1,9 +1,9 @@
 ---
-title: "Mundana Free Jekyll Theme"
+title: "Home"
 layout: default
 pagination:
     enabled: true
-description: "A great Jekyll theme developed by Sal @wowthemesnet."
+description: "On this blog we share our passion to guest books. Here, we cover the most creative guest books ideas, recommendations, and more!"
 ---
 
 
@@ -34,7 +34,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
         <small class="d-block text-muted">
             In <span class="catlist">
                 {% for category in latest_post.categories %}
-                <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+            <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}"><b>{{ category }}</b></a><span class="sep">, </span>
                 {% endfor %}
                 </span>                   
         </small>
@@ -49,8 +49,9 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     <div class="col-md-6">
         
         <!-- second latest post -->
-        {%- assign second_post = site.posts[1] -%}        
-        <div class="mb-3 d-flex align-items-center">                
+        {%- assign second_post = site.posts[1] -%}
+        {% if second_post %}
+            <div class="mb-3 d-flex align-items-center">
                 {% if second_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{second_post.url}}">
@@ -65,7 +66,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     <small class="d-block text-muted">
                         In <span class="catlist">
                         {% for category in second_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}"><b>{{ category }}</b></a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
@@ -74,10 +75,12 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     </small>
                 </div>
             </div>
+        {% endif %}
         
         <!-- third latest post -->
-        {%- assign third_post = site.posts[2] -%}        
-        <div class="mb-3 d-flex align-items-center">                
+        {%- assign third_post = site.posts[2] -%}
+        {% if third_post %}
+            <div class="mb-3 d-flex align-items-center">
                 {% if third_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{third_post.url}}">
@@ -92,7 +95,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     <small class="d-block text-muted">
                         In <span class="catlist">
                         {% for category in third_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}"><b>{{ category }}</b></a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
@@ -101,10 +104,12 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     </small>
                 </div>
             </div>
+        {% endif %}
         
         <!-- fourth latest post -->
-        {%- assign fourth_post = site.posts[3] -%}        
-        <div class="mb-3 d-flex align-items-center">                
+        {%- assign fourth_post = site.posts[3] -%}
+        {% if fourth_post %}
+            <div class="mb-3 d-flex align-items-center">
                 {% if fourth_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
@@ -119,7 +124,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     <small class="d-block text-muted">
                         In <span class="catlist">
                         {% for category in fourth_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}"><b>{{ category }}</b></a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
@@ -128,7 +133,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     </small>
                 </div>
             </div>
-        
+        {% endif %}
     </div>
     
 </div>

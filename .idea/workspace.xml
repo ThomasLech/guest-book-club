@@ -4,15 +4,19 @@
     <list default="true" id="4e39c621-4d1c-4b17-9889-4532784aeae8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/meta-read-time.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/meta-read-time.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/authors-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors-list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/privacy-policy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/top-3-wedding-guest-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/top-3-wedding-guest-books/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +33,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -55,11 +63,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581276550910</updated>
-      <workItem from="1581276552438" duration="1142000" />
+      <workItem from="1581276552438" duration="2866000" />
+      <workItem from="1581288183679" duration="255000" />
+      <workItem from="1581334132968" duration="2046000" />
+      <workItem from="1581366220650" duration="2434000" />
+      <workItem from="1581434988337" duration="12000" />
+      <workItem from="1581459894414" duration="1700000" />
+      <workItem from="1581507660558" duration="5199000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="386" key="com.intellij.ide.util.TipDialog" timestamp="1581507660937">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="614" y="386" key="com.intellij.ide.util.TipDialog/0.23.1920.1057/123.1080.1680.992@0.23.1920.1057" timestamp="1581507660937" />
+    <state x="575" y="1340" width="689" height="472" key="find.popup" timestamp="1581514018137">
+      <screen x="123" y="1080" width="1680" height="992" />
+    </state>
+    <state x="575" y="1340" width="689" height="472" key="find.popup/0.23.1920.1057/123.1080.1680.992@123.1080.1680.992" timestamp="1581514018137" />
   </component>
 </project>

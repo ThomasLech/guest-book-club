@@ -1,6 +1,6 @@
 # Site
 name: 'Guest Book Club'
-description: 'No description.'
+description: 'The blog is dedicated to guest books. It includes product recommendations, the most creative guest books ideas, DIY tutorials and much more!'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -23,7 +23,7 @@ authors:
       name:           Thomas
       site:           https://www.wowthemes.net
       avatar:         assets/images/avatar.png
-      bio:            "Hi, I am Thomas, the author of Guest Book Club! I share my passion to guest book and all I know about them."
+      bio:            "Hi, I am Thomas, the author of Guest Book Club! I share things like product recommendations, the most creative guest books ideas, DIY tutorials and much more!"
       email:          stargoodsamazon@gmail.com
       twitter:        https://twitter.com/ThomasLech11
 

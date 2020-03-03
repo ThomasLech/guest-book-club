@@ -4,7 +4,7 @@ title: TOP 3 Wedding Guest Books You Must See
 description: Searching for the best wedding guest book? Check out our ultimate list of the top 3 wedding guest books that you can buy online! Every guest book on our list has unique and amazing features.
 author: Thomas
 categories: [ Wedding ]
-image: assets/images/guest-book.jpeg
+image: assets/images/wedding-guest-book.jpeg
 tags: [featured]
 ---
 Are you getting ready for you Big Day? If so, then perhaps you already know how time-consuming and expensive planning a wedding can be! 

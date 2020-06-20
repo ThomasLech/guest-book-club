@@ -47,4 +47,7 @@ The card stands up, allowing guests to locate this book during Your wedding even
     </div>
 </div>
 
+<br>
 Thank You so much for reading this blog post! I hope you found it useful and hopefully I convinced you to have a Guest Book on Your own Wedding! 😊
+
+**I wish You a lifetime of love and happiness!**

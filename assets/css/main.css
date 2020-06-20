@@ -8497,11 +8497,11 @@ html {
 
 @media only screen and (max-width: 700px) {
   .gallery > .gallery-img.img-col-2 {
-    width: 100%;
+    width: 100% !important;
     padding: 0;
   }
   .gallery > .gallery-img.img-col-3 {
-    width: 100%;
+    width: 100% !important;
     padding: 0;
   }
 }

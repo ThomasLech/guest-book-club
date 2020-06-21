@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Do You Need A Wedding Guest Book?
-description: <description>
+description: Wedding keepsakes are sacred and here's one I highly recommend.
 author: Thomas
 categories: [ wedding ]
 image: assets/images/why-do-you-need-wedding-guest-book.jpg
@@ -24,16 +24,21 @@ Can you imagine how wonderful it would be to open this book up on your 10th anni
 The memories that would bring back!
 
 #### 2. It is much more than just a guest book.
-Guest books don't have to consist of just sign-in pages. They can include many useful features like pocket for cards and letters or pages for
-keeping track of cash, gifts, and thank you notes, or even Family Tree pages.
+- First page allows you to stick your favorite wedding photos there.
+- It has pockets for cards and letters.
+- Pages for keeping track of gifts and thank you notes.
+- It also includes pages to keep track of your family tree, his and hers of course!
+- And the sign in pages are there for all to use.
+- 124 pages in all.
 
 ### White Dove Publications
-If you are considering purchasing a Wedding Guest Book, then I would strongly recommend you to check out this [astonishing 
-Wedding Guest Book Set offered by White Dove Publications](https://www.amazon.com/White-Dove-Publications-Hardcover-Signature/dp/B082LVL47N/ref=sr_1_75?crid=8L054ZCGN7E9&keywords=wedding+guest+book&qid=1580904677&sprefix=wedding+guest%2Caps%2C243&sr=8-75).
+If you are considering purchasing a Wedding Guest Book, then I would strongly recommend you to check out this [**astonishing 
+Set offered by White Dove Publications**](https://www.amazon.com/White-Dove-Publications-Hardcover-Signature/dp/B082LVL47N/ref=sr_1_75?crid=8L054ZCGN7E9&keywords=wedding+guest+book&qid=1580904677&sprefix=wedding+guest%2Caps%2C243&sr=8-75).
 
-Not only does the book look elegant but it also comes with a premium pen and a table sign. The ink is rich, deep black that 
-won’t ever bleed through the pages. The pen feels good in your hand and stores conveniently in the box it will arrive in. 
-The card stands up, allowing guests to locate this book during Your wedding event. The set is packaged in a lovely gold embossed box.
+Not only does their book look elegant but it also comes with a premium pen and a table sign. The ink is rich, deep black that 
+won’t ever bleed through the pages. The pen feels good in your hand and stores conveniently in the box it arrives in. 
+The card stands up, allowing guests to locate this book during Your wedding event. Hardcover with gold foil stamping, 
+120gsm wood-free paper for inside pages. Perfectly sewn binding. The set is packaged in a lovely gold embossed box.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item rounded-corners" src="https://www.youtube.com/embed/-gVC6Q4LEsE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -46,8 +51,8 @@ The card stands up, allowing guests to locate this book during Your wedding even
         <img class="rounded-corners" src="https://images-na.ssl-images-amazon.com/images/I/81l-tLjlK2L._SL1500_.jpg" />
     </div>
 </div>
+You can find this product [**here**](https://www.amazon.com/White-Dove-Publications-Hardcover-Signature/dp/B082LVL47N/ref=sr_1_75?crid=8L054ZCGN7E9&keywords=wedding+guest+book&qid=1580904677&sprefix=wedding+guest%2Caps%2C243&sr=8-75).
 
-<br>
-Thank You so much for reading this blog post! I hope you found it useful and hopefully I convinced you to have a Guest Book on Your own Wedding! 😊
+Thank You so much for reading this blog post! I hope you found it useful and hopefully I convinced you to have a Guest Book on Your own Wedding! 😊 Please leave comments below.
 
 **I wish You a lifetime of love and happiness!**

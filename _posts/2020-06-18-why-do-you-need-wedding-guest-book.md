@@ -6,6 +6,7 @@ author: Thomas
 categories: [ wedding ]
 image: assets/images/why-do-you-need-wedding-guest-book.jpg
 tags: [featured]
+comments: true
 ---
 
 After attending a lot of weddings in my life, I realized that there is something much more meaningful for the couple than 

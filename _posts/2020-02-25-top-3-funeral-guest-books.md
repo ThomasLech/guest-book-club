@@ -6,6 +6,7 @@ author: Thomas
 categories: [ funeral ]
 image: assets/images/funeral-guest-book.jpg
 tags: [featured]
+comments: true
 ---
 Losing someone you love can be one of the darkest seasons in your life. I believe that is why funeral ceremonies have been part of the human experience from time immemorial. 
 In today’s fast-paced, digital world, it is nice to sometimes slow down and reflect on the lives of those that have most recently passed. 

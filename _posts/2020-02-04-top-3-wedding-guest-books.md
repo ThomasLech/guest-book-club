@@ -6,6 +6,7 @@ author: Thomas
 categories: [ Wedding ]
 image: assets/images/top-3-wedding-guest-books.png
 tags: [featured]
+comments: true
 ---
 Are you getting ready for you Big Day? If so, then perhaps you already know how time-consuming and expensive planning a wedding can be! 
 Especially, searching for the right wedding guest book while having thousands of different options to choose from.

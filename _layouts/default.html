@@ -47,7 +47,26 @@
 
     {% include tracking-header.html %}
 
-
+    <script>
+        (function () {
+            var edktInitializor = window.edktInitializor = window.edktInitializor || {};
+            if (!edktInitializor.invoked) {
+                edktInitializor.invoked = true;
+                edktInitializor.clientId = '1QbW1vJYlMXyfJN975LkRNyjAFl1';
+                edktInitializor.apiKey = '068a7a8e-b374-4e22-92c8-dbd32b313f2e';
+                edktInitializor.load = function (e) {
+                    var p = e ? e : 'sdk';
+                    var n = document.createElement('script');
+                    n.type = 'text/javascript';
+                    n.async = true;
+                    n.src = 'https://cdn.edkt.io/' + p + '/edgekit.min.js';
+                    var a = document.getElementsByTagName('script')[0];
+                    a.parentNode.insertBefore(n, a);
+                };
+                edktInitializor.load();
+            }
+        })();
+    </script>
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">

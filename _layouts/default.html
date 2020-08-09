@@ -8,6 +8,40 @@
 
     <script>
         (function () {
+            var edktAudiences;
+            try {
+                edktAudiences = JSON.parse(localStorage.getItem('edkt_matched_audience_ids') || '[]')
+                    .slice(0, 100)
+                    .map(String);
+            } catch (e) {
+                edktAudiences = [];
+            }
+
+            // This code is already present on your page.
+            // We are adding just a single key to the `keywords` object.
+            var adUnits = [
+                {
+                    code: '/19968336/header-bid-tag',
+                    mediaTypes: {
+                        banner: {
+                            sizes: [
+                                [300, 250],
+                                [300, 600],
+                            ]
+                        }
+                    },
+                    bids: [{
+                        bidder: 'appnexus',
+                        params: {
+                            placementId: 13144370,
+                            keywords: {
+                                edgekit: edktAudiences
+                            }
+                        }
+                    }]
+                }
+            ];
+
             var edktInitializor = window.edktInitializor = window.edktInitializor || {};
             if (!edktInitializor.invoked) {
                 edktInitializor.invoked = true;

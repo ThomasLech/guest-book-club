@@ -8,45 +8,11 @@
 
     <script>
         (function () {
-            var edktAudiences;
-            try {
-                edktAudiences = JSON.parse(localStorage.getItem('edkt_matched_audience_ids') || '[]')
-                    .slice(0, 100)
-                    .map(String);
-            } catch (e) {
-                edktAudiences = [];
-            }
-
-            // This code is already present on your page.
-            // We are adding just a single key to the `keywords` object.
-            var adUnits = [
-                {
-                    code: '/19968336/header-bid-tag',
-                    mediaTypes: {
-                        banner: {
-                            sizes: [
-                                [300, 250],
-                                [300, 600],
-                            ]
-                        }
-                    },
-                    bids: [{
-                        bidder: 'appnexus',
-                        params: {
-                            placementId: 13144370,
-                            keywords: {
-                                edgekit: edktAudiences
-                            }
-                        }
-                    }]
-                }
-            ];
-
             var edktInitializor = window.edktInitializor = window.edktInitializor || {};
             if (!edktInitializor.invoked) {
                 edktInitializor.invoked = true;
-                edktInitializor.clientId = '1QbW1vJYlMXyfJN975LkRNyjAFl1';
-                edktInitializor.apiKey = '068a7a8e-b374-4e22-92c8-dbd32b313f2e';
+                edktInitializor.clientId = 'JtI17DOogoe68a9jBXF5pRRcruA2';
+                edktInitializor.apiKey = '70f24361-f1fd-47d4-a321-47ef35a70da5';
                 edktInitializor.load = function (e) {
                     var p = e ? e : 'sdk';
                     var n = document.createElement('script');
@@ -58,6 +24,31 @@
                 };
                 edktInitializor.load();
             }
+
+            var edktAudienceIds;
+            try {
+                edktAudienceIds = JSON.parse(localStorage.getItem('edkt_matched_audience_ids') || '[]')
+                    .slice(0, 100)
+                    .map(String);
+            } catch (e) {
+                edktAudienceIds = [];
+            }
+
+            var adUnits = [
+                {
+                    code: '/19968336/header-bid-tag',
+                    // setup omitted for brevity...
+                    bids: [{
+                        bidder: 'appnexus',
+                        params: {
+                            placementId: 13144370,
+                            keywords: {
+                                edgekit: edktAudienceIds
+                            }
+                        }
+                    }]
+                }
+            ];
         })();
     </script>
 
